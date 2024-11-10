@@ -11,6 +11,6 @@ I linked a internal security control audit on a case study business and provided
 Cybersecurity Incident Report Network Traffic Analysis - 
 I have linked a report on network traffic logs and have provided an analysis on the pontential issue https://docs.google.com/document/d/1hmH4m1OdGxhzsf3Tv9n-VzESvbFVAJ8fUYat1QAiSK4/edit?tab=t.0 
 
-
-
+Cybersecurity Incident Report - TCP Logs - 
+I have linked my analysis on TCP Logs which indicate a malicious attack has been made on a web server https://docs.google.com/document/d/1APAvToJANB6xExm2MaNU6g0LIPa4CAR21l7tJp8hy-0/edit?tab=t.0
 
