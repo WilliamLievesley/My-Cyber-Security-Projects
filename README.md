@@ -15,5 +15,8 @@ Cybersecurity Incident Report - TCP Logs -
 I have linked my analysis on TCP Logs which indicate a malicious attack has been made on a web server https://docs.google.com/document/d/1APAvToJANB6xExm2MaNU6g0LIPa4CAR21l7tJp8hy-0/edit?tab=t.0
 I have linked another analysis of TCP logs which indicate a malicious HTTP get request https://docs.google.com/document/d/1GdqoGd7gfsO2Ob1lfcBmt2anLVpyvQ7SdxgT3cdFrjA/edit?usp=sharing
 
+Security Risk Assessment Report -  Security Hardening
+In this section i provide a social media company recommendations for security hardening tasks https://docs.google.com/document/d/1AV62HbwE-hMPB2viwTS36653Loc3x6rsO9bSDXfpAsA/edit?usp=sharing
+
 
 
