@@ -16,7 +16,10 @@ I have linked my analysis on TCP Logs which indicate a malicious attack has been
 I have linked another analysis of TCP logs which indicate a malicious HTTP get request https://docs.google.com/document/d/1GdqoGd7gfsO2Ob1lfcBmt2anLVpyvQ7SdxgT3cdFrjA/edit?usp=sharing
 
 Security Risk Assessment Report -  Security Hardening
-In this section i provide a social media company recommendations for security hardening tasks https://docs.google.com/document/d/1AV62HbwE-hMPB2viwTS36653Loc3x6rsO9bSDXfpAsA/edit?usp=sharing
+In this section I provide a social media company recommendations for security hardening tasks https://docs.google.com/document/d/1AV62HbwE-hMPB2viwTS36653Loc3x6rsO9bSDXfpAsA/edit?usp=sharing
+
+Incident report analysis NIST Framework - 
+In this section I have implemented an analysis using the NIST framework for a company going through a DDoS attackhttps://docs.google.com/document/d/18t7jhq73GyaP45D2GOz7UU8d--iuGa3_sqxFTi7Lq_Y/edit?usp=sharing
 
 
 
