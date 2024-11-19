@@ -21,5 +21,7 @@ In this section I provide a social media company recommendations for security ha
 Incident report analysis NIST Framework - 
 In this section I have implemented an analysis using the NIST framework for a company going through a DDoS attack https://docs.google.com/document/d/18t7jhq73GyaP45D2GOz7UU8d--iuGa3_sqxFTi7Lq_Y/edit?usp=sharing
 
+File permissions in Linux - 
+In this section i have ran a lab session and amended access permissions to different directories and files https://docs.google.com/document/d/1FwdA55RQoizzwjQaw7kMSdJQ6znvuRRH5KrEpNooaZY/edit?tab=t.0
 
 
