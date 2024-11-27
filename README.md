@@ -9,7 +9,7 @@ I linked a internal security control audit on a case study business and provided
 
 | Project  | Skills | Tools | What was done | Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  Internal Security Audit | Risk Assessment  | Control and Compliance Check List ( PCI CSS/GDPR/SOC 1 and 2)   |  | |
+|  Internal Security Audit | Risk Assessment  | Control and Compliance Check List (PCI CSS/GDPR/SOC 1 and 2)   |  | |
 | Cybersecurity Incident Report Network Traffic Analysis | Content Cell  | Content Cell  | Content Cell  ||
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  ||
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  ||
