@@ -10,13 +10,11 @@ Here I have listed a few pieces of work that showcase my knowledge in identifyin
 | ------------- | ------------- | ------------- | ------------------- | ------------- |
 |  Internal Security Audit | Risk Assessment  | Control and Compliance Check List (PCI CSS/GDPR/SOC 1 and 2)   | Based on the existing information provided on the company I made a few recommendations for compliance and security. | [Click Here](https://docs.google.com/document/d/1Jgy_Ufiw7cTaeCfQVr-0_9Nq6-PVepehHtFTspOy67M/edit?usp=sharing) |
 | Cybersecurity Incident Report Network Traffic Analysis | Threat detection, Network Traffic Analysis | Network Protocol Analyser (TCPDUMP)  | Made a report based on network traffic logs and have provided an analysis on the potential issue.  |[Click Here](https://docs.google.com/document/d/1hmH4m1OdGxhzsf3Tv9n-VzESvbFVAJ8fUYat1QAiSK4/edit?tab=t.0)|
-| Cybersecurity Incident Report - TCP Logs  | Threat Detection, Analysis  |  Network Protocol Analyser Wireshark  | Identified a DoS attack based on the TCP Logs and detail how it works and its impact.  |[Click Here](https://docs.google.com/document/d/1APAvToJANB6xExm2MaNU6g0LIPa4CAR21l7tJp8hy-0/edit?tab=t.0)|
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |[Click Here]|
+| Cybersecurity Incident Report - TCP Logs | Threat Detection, Analysis  |  Network Protocol Analyser Wireshark  | Identified a DoS attack based on the TCP Logs and detail how it works and its impact.  |[Click Here](https://docs.google.com/document/d/1APAvToJANB6xExm2MaNU6g0LIPa4CAR21l7tJp8hy-0/edit?tab=t.0)|
+| Cybersecurity Incident Report TCP/IP | Threat Detection, Network Layer Analysis  | Network Protocol Analyser (TCPDUMP)  | Identified and documented a malicious HTTP get request and provided a suitable solution  |[Click Here](https://docs.google.com/document/d/1GdqoGd7gfsO2Ob1lfcBmt2anLVpyvQ7SdxgT3cdFrjA/edit?usp=sharing)|
+|Security Risk Assessment Report -  Security Hardening | Technical, Analytical, (Risk Mitigation) | | |
   
-I have linked my analysis on TCP Logs which indicate a malicious attack has been made on a web server 
-I have linked another analysis of TCP logs which indicate a malicious HTTP get request https://docs.google.com/document/d/1GdqoGd7gfsO2Ob1lfcBmt2anLVpyvQ7SdxgT3cdFrjA/edit?usp=sharing
 
-Security Risk Assessment Report -  Security Hardening
 In this section I provide a social media company recommendations for security hardening tasks https://docs.google.com/document/d/1AV62HbwE-hMPB2viwTS36653Loc3x6rsO9bSDXfpAsA/edit?usp=sharing
 
 Incident report analysis NIST Framework - 
