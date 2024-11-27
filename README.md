@@ -1,7 +1,7 @@
 # My Cyber-Security Projects
 
 ## Overview 
-Here I have listed a few pieces of work that demonstrate my knowledge in identifying threats, migiating risks and securing data. Some of these projects also include the use of SIEM tools and involve the use of Python, Linux and SQL. Each project task introduces an issue within security and what is necessary to resolve it demonstrating proficiency in the different aspects of Cyber Security. I have gone ahead and labeled each project tasks and provided a brief summary of what has been done.
+Here I have listed a few pieces of work that demonstrate my knowledge in identifying threats, migiating risks and securing data. Some of these projects also include the use of SIEM tools and involve the use of Python, Linux and SQL. Each task introduces a different issue within security and what is necessary to resolve it demonstrating proficiency in the different aspects of Cyber Security. I have gone ahead and labeled each project tasks and provided a brief summary of what has been done.
 
 ## Projects 
 Internal Security Audit - 
