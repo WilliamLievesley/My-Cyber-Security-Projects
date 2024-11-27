@@ -1,8 +1,6 @@
-# Cyber-Security Projects
+# My Cyber-Security Projects
 
 Under this Project i have listed a few pieces of work to demonstrate my knowledge of security principles and the knowledge of SIEM tools.
-
-Professional Statement - https://docs.google.com/document/d/18e_DyOPTQ0GF52G-Edq6riue3-6UNmCV_-5Htz_wFfw/edit?usp=sharing
 
 
 Internal Security Audit - 
