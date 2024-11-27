@@ -9,11 +9,11 @@ I linked a internal security control audit on a case study business and provided
 
 | Project  | Skills | Tools | Link
 | ------------- | ------------- | ------------- | ------------- |
+| Cybersecurity Incident Report Network Traffic Analysis  |   |   |  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-Cybersecurity Incident Report Network Traffic Analysis - 
+ - 
 I have linked a report on network traffic logs and have provided an analysis on the pontential issue https://docs.google.com/document/d/1hmH4m1OdGxhzsf3Tv9n-VzESvbFVAJ8fUYat1QAiSK4/edit?tab=t.0 
 
 Cybersecurity Incident Report - TCP Logs - 
