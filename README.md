@@ -7,12 +7,12 @@ Here I have listed a few pieces of work that showcase my knowledge in identifyin
 Internal Security Audit - 
 I linked a internal security control audit on a case study business and provided a few recommendations for compliance with The General Data Protection Regulation (GDPR) and Payment Card Industry Data Security Standard (PCI DSS) https://docs.google.com/document/d/1Jgy_Ufiw7cTaeCfQVr-0_9Nq6-PVepehHtFTspOy67M/edit?usp=sharing
 
-| Project  | Skills | Tools | Link
+| Project  | Skills | Tools | What was done | Link
 | ------------- | ------------- | ------------- | ------------- |
-| Cybersecurity Incident Report Network Traffic Analysis  |   |   |  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Cybersecurity Incident Report Network Traffic Analysis  |   |   |  | |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  ||
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  ||
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  ||
  - 
 I have linked a report on network traffic logs and have provided an analysis on the pontential issue https://docs.google.com/document/d/1hmH4m1OdGxhzsf3Tv9n-VzESvbFVAJ8fUYat1QAiSK4/edit?tab=t.0 
 
