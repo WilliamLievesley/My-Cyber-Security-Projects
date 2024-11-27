@@ -4,12 +4,11 @@
 Here I have listed a few pieces of work that showcase my knowledge in identifying threats, migiating risks and securing data. Some of these projects also include the use of SIEM tools and involve the use of Python, Linux and SQL. Each task introduces a different issue within security and what is necessary to resolve it demonstrating proficiency in the different aspects of Cyber Security. I have gone ahead and labeled each project tasks and provided a brief summary of what has been done.
 
 ## Projects 
- - 
-I linked a internal security control audit on a case study business and provided a few recommendations for compliance with The General Data Protection Regulation (GDPR) and Payment Card Industry Data Security Standard (PCI DSS) https://docs.google.com/document/d/1Jgy_Ufiw7cTaeCfQVr-0_9Nq6-PVepehHtFTspOy67M/edit?usp=sharing
+
 
 | Project  | Skills | Tools | What was done | Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  Internal Security Audit | Risk Assessment  | Control and Compliance Check List (PCI CSS/GDPR/SOC 1 and 2)   |  | |
+|  Internal Security Audit | Risk Assessment  | Control and Compliance Check List (PCI CSS/GDPR/SOC 1 and 2)   | Based on the existing information provided on the company provided a few recommendations for compliance  and security| https://docs.google.com/document/d/1Jgy_Ufiw7cTaeCfQVr-0_9Nq6-PVepehHtFTspOy67M/edit?usp=sharing |
 | Cybersecurity Incident Report Network Traffic Analysis | Content Cell  | Content Cell  | Content Cell  ||
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  ||
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  ||
