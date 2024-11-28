@@ -13,12 +13,8 @@ Here I have listed a few pieces of work that showcase my knowledge in identifyin
 | Cybersecurity Incident Report - TCP Logs | Threat Detection, Analysis  |  Network Protocol Analyser Wireshark  | Identified a DoS attack based on the TCP Logs and detail how it works and its impact.  |[Click Here](https://docs.google.com/document/d/1APAvToJANB6xExm2MaNU6g0LIPa4CAR21l7tJp8hy-0/edit?tab=t.0)|
 | Cybersecurity Incident Report TCP/IP | Threat Detection, Network Layer Analysis  | Network Protocol Analyser (TCPDUMP)  | Identified and documented a malicious HTTP get request and provided a suitable solution  |[Click Here](https://docs.google.com/document/d/1GdqoGd7gfsO2Ob1lfcBmt2anLVpyvQ7SdxgT3cdFrjA/edit?usp=sharing)|
 |Security Risk Assessment Report -  Security Hardening | Technical, Analytical, (Risk Mitigation) | N/A |Provided a social media company recommendations for security hardening as part of a defense in depth strategy. |[Click Here](https://docs.google.com/document/d/1AV62HbwE-hMPB2viwTS36653Loc3x6rsO9bSDXfpAsA/edit?usp=sharing)|
-  
+|Incident report analysis NIST Framework |   Identify, Detect, Respond, Communicate, Mitigate | NIST Framework | Implemented an analysis using the NIST framework for a company going through a DDoS attack | [Click Here](https://docs.google.com/document/d/18t7jhq73GyaP45D2GOz7UU8d--iuGa3_sqxFTi7Lq_Y/edit?usp=sharing) |
 
-In this section I provide a social media company recommendations for security hardening tasks 
-
-Incident report analysis NIST Framework - 
-In this section I have implemented an analysis using the NIST framework for a company going through a DDoS attack https://docs.google.com/document/d/18t7jhq73GyaP45D2GOz7UU8d--iuGa3_sqxFTi7Lq_Y/edit?usp=sharing
 
 File permissions in Linux - 
 In this section i have ran a lab session and amended access permissions to different directories and files https://docs.google.com/document/d/1FwdA55RQoizzwjQaw7kMSdJQ6znvuRRH5KrEpNooaZY/edit?tab=t.0
