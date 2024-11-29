@@ -6,8 +6,8 @@ Here I have listed a few pieces of work that showcase my knowledge in identifyin
 ## Projects 
 
 
-| Project  | Skills | Tools | What was done | Links |
-| ------------- | ------------- | ------------- | ------------------- | ------------- |
+| Project  | Skills | Tools | What was done | Link 1 | Link 2 |
+| ------------- | ------------- | ------------- | ------------------- | ------------- | ------------- |
 |Internal Security Audit | Risk Assessment  | Control and Compliance Check List (PCI CSS/GDPR/SOC 1 and 2)   | Based on the existing information provided on the company I made a few recommendations for compliance and security. | [Project](https://docs.google.com/document/d/17mvD6uI_ALyVAEerg-z403DCoWEoQdwIngj2r7klvWk/edit?tab=t.0#heading=h.87tykp1u0l36) |
 |Cybersecurity Incident Report Network Traffic Analysis | Threat detection, Network Traffic Analysis | Network Protocol Analyser (TCPDUMP)  | Made a report based on network traffic logs and have provided an analysis on the potential issue.  |[Project](https://docs.google.com/document/d/1hmH4m1OdGxhzsf3Tv9n-VzESvbFVAJ8fUYat1QAiSK4/edit?tab=t.0)|
 |Cybersecurity Incident Report - TCP Logs | Threat Detection, Analysis  |  Network Protocol Analyser Wireshark  | Identified a DoS attack based on the TCP Logs and detail how it works and its impact.  |[Project](https://docs.google.com/document/d/1APAvToJANB6xExm2MaNU6g0LIPa4CAR21l7tJp8hy-0/edit?tab=t.0)|
