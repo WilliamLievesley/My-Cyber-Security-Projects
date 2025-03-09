@@ -40,7 +40,7 @@
 
 ### Malicious Activity:
 
-![Malicious Activity Diagram](Project List/images/Cybersecurity Incident Report - TCP Logs WL/green and red tcp log.png)
+![Malicious Activity Diagram](https://github.com/WilliamLievesley/My-Cyber-Security-Projects/blob/main/Project%20List/images/Cybersecurity%20Incident%20Report%20-%20TCP%20Logs%20WL/green%20and%20red%20tcp%20log.png)
 
 All in **green** are legitimate SYN requests, while the one in **red** is a malicious attack, indicated by the continuous SYN requests even after the server has acknowledged the connection.
 
