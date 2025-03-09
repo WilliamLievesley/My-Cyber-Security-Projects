@@ -67,7 +67,7 @@ The logs indicate a **DoS (Denial of Service) Attack**, specifically a **SYN Flo
 
 
 - The continuous **SYN requests** from IP `203.0.113.0` indicate a **SYN Flood Attack**.
-- The server begins to show signs of struggle, with the server unable to respond to new incoming requests due to resource exhaustion indicated with the log in **yellow**.
+- The server begins to show signs of struggle, with the server unable to respond to new incoming requests due to resource exhaustion indicated with the logs in **yellow**.
 
 ---
 
