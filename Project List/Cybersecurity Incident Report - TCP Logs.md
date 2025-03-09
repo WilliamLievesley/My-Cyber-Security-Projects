@@ -62,17 +62,11 @@ The logs indicate a **DoS (Denial of Service) Attack**, specifically a **SYN Flo
   When a malicious actor sends a large number of SYN packets, it consumes server resources (memory and CPU), preventing legitimate users from establishing connections. The server becomes overwhelmed, resulting in timeouts for actual users.
 
 ---
-
+![SYN Flood Attack](https://github.com/WilliamLievesley/My-Cyber-Security-Projects/blob/main/Project%20List/images/Cybersecurity%20Incident%20Report%20-%20TCP%20Logs%20WL/green%20red%20and%20yellow%20tcp%20log.png)
 ### Attack Indicators:
 
 - The continuous **SYN requests** from IP `203.0.113.0` indicate a **SYN Flood Attack**.
 - The server begins to show signs of struggle, with the server unable to respond to new incoming requests due to resource exhaustion.
-
----
-
-### Placeholder for Attack Diagram:
-
-![SYN Flood Attack](path/to/your/attack_image.png)
 
 ---
 
