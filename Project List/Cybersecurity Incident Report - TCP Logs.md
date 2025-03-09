@@ -3,6 +3,7 @@
 ## Log Data and My Notes
 
 [Full Log Data](https://docs.google.com/spreadsheets/d/1enpRzrIao3J2Lp2tOI0hmu1Cu7D7CjLGhFAiTiR9J64/edit?gid=218501934#gid=218501934)
+[Full Project](https://docs.google.com/document/d/1APAvToJANB6xExm2MaNU6g0LIPa4CAR21l7tJp8hy-0/edit?tab=t.0)
 
 ---
 
