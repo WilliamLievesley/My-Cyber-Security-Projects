@@ -9,7 +9,7 @@ You are a security analyst working at the e-commerce store **Buttercup Games**. 
 
 To add the data, I navigated to **Settings** and clicked on the **Add Data** icon, inputting the file containing mail server logs.
 
-![Placeholder for Add Data Screenshot](path/to/image1.png)
+![Placeholder for Add Data Screenshot](https://github.com/WilliamLievesley/My-Cyber-Security-Projects/blob/main/Project%20List/images/Identify%20Security%20Issues%20with%20the%20Mail%20Server%20Using%20Splunk/add%20data.png)
 
 ---
 
