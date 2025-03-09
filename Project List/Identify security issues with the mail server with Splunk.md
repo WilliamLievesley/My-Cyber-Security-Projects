@@ -1,5 +1,5 @@
 # Identify Security Issues with the Mail Server Using Splunk
-
+[Full Document](https://docs.google.com/document/d/1BVIJW8u04saWFWxRLXt_Iq9QmJgPdPsqx9nuQSbfWfI/edit?tab=t.0#heading=h.showwcjcgtjz)
 ## Scenario
 You are a security analyst working at the e-commerce store **Buttercup Games**. You've been tasked with identifying whether there are any possible security issues with the **mail server**. To do so, you must explore any failed **SSH logins** for the root account.
 
