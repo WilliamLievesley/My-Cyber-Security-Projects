@@ -6,7 +6,7 @@ Here I have listed a few pieces of work that showcase my knowledge in identifyin
 ## Projects 
 
 
-| Project  | Skills | Tools | What was done | Link 1 | Link 2 |
+| Project  | Skills | Tools/frameworks | What was done | Link 1 | Link 2 |
 | ------------- | ------------- | ------------- | ------------------- | ------------- | ------------- |
 |Internal Security Audit | Risk Assessment  | Control and Compliance Check List (PCI CSS/GDPR/SOC 1 and 2)   | Based on the existing information provided on the company I made a few recommendations for compliance and security | [Project](https://docs.google.com/document/d/17mvD6uI_ALyVAEerg-z403DCoWEoQdwIngj2r7klvWk/edit?tab=t.0#heading=h.87tykp1u0l36) |[Outcome]() |
 |Risk Register | Risk Assessment  | NIST guidelines for identifying risk | Prioritised risk for a bank based on likelihood and severity | [Project](https://docs.google.com/document/d/1Tci9j51rLmFvYZxQxbEgOYkIAD1p1avyhTDwxb53_wc/edit?usp=sharing) |[Outcome](https://github.com/WilliamLievesley/My-Cyber-Security-Projects/blob/main/Project%20List/Risk%20Register) |
