@@ -23,7 +23,7 @@ index="main"
 
 The `main` index is the default location where data is stored. Upon executing the query, log events were displayed, confirming that the data was successfully indexed. To ensure a comprehensive search, I set the **time range** to **"All Time"**.
 
-![Placeholder for Query Result Screenshot](path/to/image2.png)
+![Placeholder for Query Result Screenshot](https://github.com/WilliamLievesley/My-Cyber-Security-Projects/blob/main/Project%20List/images/Identify%20Security%20Issues%20with%20the%20Mail%20Server%20Using%20Splunk/index%20main%20host.png)
 
 ---
 
@@ -37,7 +37,7 @@ index="main" host=mailsv
 
 (`mailsv` represents the **mail server**)
 
-![Placeholder for Mail Server Search Screenshot](path/to/image3.png)
+![Placeholder for Mail Server Search Screenshot](https://github.com/WilliamLievesley/My-Cyber-Security-Projects/blob/main/Project%20List/images/Identify%20Security%20Issues%20with%20the%20Mail%20Server%20Using%20Splunk/index%20main%20host.png)
 
 ---
 
@@ -56,7 +56,7 @@ This query returned **346 events**, revealing multiple failed **SSH login attemp
 - The **timestamps** indicate that the attacks occurred in rapid succession, implying the use of an **automated attack script** or a **bot**.
 - The logs contain **various IP addresses**, which may indicate the use of **proxies, VPNs, or a botnet** to evade detection.
 
-![Placeholder for Failed Login Screenshot](path/to/image4.png)
+![Placeholder for Failed Login Screenshot](https://github.com/WilliamLievesley/My-Cyber-Security-Projects/blob/main/Project%20List/images/Identify%20Security%20Issues%20with%20the%20Mail%20Server%20Using%20Splunk/index%20main%20host%20root.png)
 
 ---
 
@@ -68,8 +68,6 @@ This behavior aligns with a **brute-force attack** on the SSH service of the mai
 - **Deploy fail2ban** or similar tools to block repeated failed login attempts.
 - **Restrict SSH access** to only authorized IP addresses.
 - **Enforce key-based authentication** instead of password-based authentication.
-
-![Placeholder for Security Recommendation Screenshot](path/to/image5.png)
 
 ---
 
