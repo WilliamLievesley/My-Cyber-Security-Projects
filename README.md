@@ -22,5 +22,6 @@ Here I have listed a few pieces of work that showcase my knowledge in identifyin
 |Incident handler's journal | Incident logging, Packet Capture and Analysing, SHA-256 file hash Scanning | TCPDUMP, Wireshark, VirusTotal | Captured packet using TCPDUMP and analysed it with wireshark. Conducted a file hash scan for malcious activity |[Project](https://docs.google.com/document/d/1TaJCbsRxCNpXZ6HDC5uxT5II5lqYHkuD-24hUX5bHqs/edit?usp=sharing)| | 
 |Algorithm for file updates in Python | Coding | Python | Created an algorithm that removes specified IP addresses from an authorised IP address file  |[Project](https://docs.google.com/document/d/1_l9Hv7JfENnIZhCScO86HKyqHrvQpzfDIk2mSM1Sz9M/edit?usp=sharing)| |
 |Identify security issues with the mail server with Splunk |  Log Analysis & Threat Detection | Splunk, SIEM Tools| Identify malicious login attempts for a company mail server  |[Project](https://docs.google.com/document/d/1BVIJW8u04saWFWxRLXt_Iq9QmJgPdPsqx9nuQSbfWfI/edit?usp=sharing)|[Short Version](https://github.com/WilliamLievesley/My-Cyber-Security-Projects/blob/main/Project%20List/Identify%20security%20issues%20with%20the%20mail%20server%20with%20Splunk.md) |
+|Blank |  Blank | Blank | Blank  |[Project]|
 
 
